@@ -163,7 +163,7 @@ module.exports = class extends Generator {
             // 'mock',
             "public",
             ".editorconfig",
-            ".gitignore",
+            // ".gitignore",
             ".eslintrc.js",
             ".roadhogrc.js",
             ".roadhogrc.mock.js",
