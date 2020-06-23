@@ -2,7 +2,7 @@
 
 npm i -g generator-react-ts-cli
 
-npm yo
+npm install -g yo
 
 yo react-ts-cli
 

@@ -1,16 +1,16 @@
 {
     "name": "generator-react-ts-cli",
-    "version": "0.0.0",
+    "version": "1.0.2",
     "description": "",
     "homepage": "",
     "author": {
         "name": "fanpeng.bu",
         "email": "226972848@qq.com",
-        "url": ""
+        "url": "https://github.com/bufanpeng/reactTsCli.git"
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/bufanpeng/reactTsCli.git"
     },
     "files": [
         "generators"

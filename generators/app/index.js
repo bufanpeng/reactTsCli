@@ -20,7 +20,7 @@ module.exports = class extends Generator {
             name: "world"
         };
         //接下来我们是一些选配置的地方我们可以前提设定好一些配置属性我们在其他方法中来用
-        this.config.save(); //此方法将配置写入.yo-rc.json文件。如果该文件尚不存在，则该save方法将创建该文件
+        // this.config.save(); //此方法将配置写入.yo-rc.json文件。如果该文件尚不存在，则该save方法将创建该文件
     }
     async prompting() {
         // Have Yeoman greet the user.
